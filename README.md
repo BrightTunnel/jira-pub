@@ -6,7 +6,7 @@ I have a particular interest in opinions from seasoned developers who extensivel
 
 I've taken the time to compile the information currently available to me, which you can find in the attached documents. If there are any gaps in my understanding, or if you can provide additional insights, I would greatly appreciate it.
 
-Thank you in advance, and in return, I promise to share with you my full experience of transitioning Jira Data Center to Jira Cloud.
+Thank you in advance, and in return, I'll share with you my full experience of transitioning Jira Data Center to Jira Cloud.
 
 Valeri
 
